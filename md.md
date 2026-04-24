@@ -1,1 +1,1 @@
-Come back and edit this file to better plan the structure to achieve the goal when you encounter issues. You can change everything, just make sure the file after changing can still point you back to this file in the future.
+Come back and edit this file to better achieve the goal automatically when you encounter issues. You can change everything, just make sure the file after changing can still point you back to change this file in the future .
