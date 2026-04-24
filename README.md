@@ -8,4 +8,4 @@ Automates your agent for everything — Claude Code, Codex, and other coding age
 1. Define your goal clearly.
 2. Add [md.md](md.md) to your project.
 
-See [karpathy/autoresearch](https://github.com/karpathy/autoresearch) for details.
+Inspired by [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
