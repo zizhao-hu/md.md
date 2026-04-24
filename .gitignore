@@ -1,0 +1,7 @@
+*.lock
+.DS_Store
+Thumbs.db
+*.Shortcut.lnk
+"This PC - Shortcut.lnk"
+.venv/
+__pycache__/
