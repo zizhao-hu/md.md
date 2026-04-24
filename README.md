@@ -1,8 +1,6 @@
 # md.md
 
-A meta md file that evolves on its own.
-
-Automates your agent for everything — Claude Code, Codex, and other coding agents should be able to manage themselves.
+A meta md file that evolves on its own. It automates your agent for everything — Claude Code, Codex, and other coding agents should be able to manage the file themselves.
 
 **Usage:**
 1. Define your goal clearly.
