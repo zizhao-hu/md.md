@@ -4,7 +4,7 @@
 
 A meta .md file that evolves on its own. It automates your agent for everything — Research, Dev, anything that has a goal.
 
-The pattern generalizes. `style.md`. `soul.md`. `voice.md`. `taste.md`. You don't need a predefined format. You don't constrain your AI. One sentence of meta is enough.
+The pattern generalizes. `style.md`. `soul.md`. `voice.md`. `taste.md` — humans pick the names, humans define the meaning. Format is outdated. One sentence of meta is enough.
 
 ```
 goal ─▶ md.md ─▶ agent ─▶ result

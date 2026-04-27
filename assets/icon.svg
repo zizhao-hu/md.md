@@ -1,15 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
   <rect width="256" height="256" rx="28" fill="#0a0a0a"/>
-  <text x="128" y="118"
+  <text x="128" y="128"
         font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace"
-        font-size="44"
+        font-size="52"
         font-weight="700"
         fill="#ffffff"
         text-anchor="middle"
-        dominant-baseline="middle">md.md</text>
-  <text x="128" y="190"
-        font-family="system-ui, -apple-system, sans-serif"
-        font-size="40"
-        fill="#666666"
-        text-anchor="middle">&#8635;</text>
+        dominant-baseline="central">md.md</text>
 </svg>
