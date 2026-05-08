@@ -1,7 +1,5 @@
 <img src="assets/icon.svg" width="80" align="middle" alt="md.md icon">
 
-# md.md
-
 A meta .md file that evolves on its own. It automates your agent for everything — Research, Dev, anything that has a goal.
 
 The pattern generalizes. `style.md`. `soul.md`. `voice.md`. `taste.md` — humans pick the names, humans define the meaning. Format is outdated. One sentence of meta is enough.
