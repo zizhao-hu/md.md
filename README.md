@@ -1,4 +1,4 @@
-<img src="assets/icon.svg" width="80" align="right" alt="md.md icon">
+<img src="assets/icon.svg" width="80" align="middle" alt="md.md icon">
 
 # md.md
 
