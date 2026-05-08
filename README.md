@@ -5,9 +5,8 @@ A meta .md file that evolves on its own. It automates your agent for everything 
 The pattern generalizes. `style.md`. `soul.md`. `voice.md`. `taste.md` — humans pick the names, humans define the meaning. Format is outdated. One sentence of meta is enough.
 
 ```
-goal ─▶ md.md ─▶ agent ─▶ result
-         ▲                  │
-         └─── rewrite ◀─────┘
+goal ─▶ md.md ─▶ Loop ( agent ─▶ result ─▶ rewrite md.md ) 
+        
 ```
 
 **Usage:**
